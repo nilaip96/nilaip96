@@ -5,7 +5,7 @@
 
 ### I'm a huge fan of Javascript :memo:, React :battery:, and PostGres :elephant:.
 
-- 🔭 I’m currently working on a fantasy basketball optimzer application :basketball: a one stop travel package application :airplane: a MapleStory :maple_leaf: and RuneScape private server :european_castle: and a eCommerce back-end :moneybag:.
+- 🔭 I’m currently working on a fantasy basketball optimzer application :basketball: a one stop travel package application :airplane: RuneScape private server :european_castle: and a eCommerce back-end :moneybag:.
 
 - 🌱 I’m currently learning React-Native, Python, and Jest-Enzyme
 
