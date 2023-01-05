@@ -2,7 +2,7 @@
 **😄 Pronouns: He, Him, His**
 <br>
 
-- :purple_heart: I love to collaborate with people and make their ideas a reality.
+- :purple_heart: I love to collaborate with people and make our ideas a reality.
 
 <br>
 
